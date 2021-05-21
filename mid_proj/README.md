@@ -1,4 +1,4 @@
-# MATH5473
+# Middle Projection
 The code is based on following projects:
 
 https://github.com/caesarcai/AccAltProj_for_RPCA
